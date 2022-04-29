@@ -604,6 +604,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: accidental-still-life_booth_booth
       objectReference: {fileID: 0}
+    - target: {fileID: 4845739021368477220, guid: d2602e02a8fb54eff823298891a088d6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.2
+      objectReference: {fileID: 0}
     - target: {fileID: 9202605356347844766, guid: d2602e02a8fb54eff823298891a088d6, type: 3}
       propertyPath: m_RootOrder
       value: 7
